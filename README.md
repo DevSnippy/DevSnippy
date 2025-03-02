@@ -50,6 +50,9 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/DevSnippy/DevSnippy/output/snake.svg" alt="Snake animation" />
+
+
 ### 🎵 Currently Jamming To  
 <p align="center">
   <a href="https://open.spotify.com/user/aviram121">
