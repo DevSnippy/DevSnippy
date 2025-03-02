@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  🚀 Full-Stack Developer | DevOps Enthusiast | Linux Power User (i use arch btw)
+  🚀 Full-Stack Developer | DevOps Enthusiast | Linux Power User 
 </p>
 
 ###
@@ -57,4 +57,5 @@
   </a>
 </p>
 
+<p>(i use arch btw)</p>
 ---
