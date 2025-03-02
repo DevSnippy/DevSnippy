@@ -15,23 +15,46 @@
 
 ###
 
-### 🛠️ Tech Stack
-- **Languages**: JavaScript, TypeScript, Python, Rust
-- **Frameworks**: React, Node.js, Next.js
-- **Tools**: Linux, Git, Docker, Webpack, CustomTkinter
-- **Cloud & DevOps**: CI/CD, Home Server Setup, Automation
-- **Other Interests**: Open Source, Embedded Systems, SDR, Raspberry Pi, 3D Printing
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+</p>
+
+- **Languages**: JavaScript, TypeScript, Python, Rust  
+- **Frameworks**: React, Node.js, Next.js  
+- **Tools**: Linux, Git, Docker, Webpack, CustomTkinter  
+- **Cloud & DevOps**: CI/CD, Home Server Setup, Automation  
+- **Other Interests**: Open Source, Embedded Systems, SDR, Raspberry Pi, 3D Printing  
 
 ###
 
-### 📫 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](your-discord-link)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile)
+### 📫 Connect with Me  
+<p align="center">
+  <a href="your-discord-link">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ###
 
-### 🎵 Currently Jamming To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=aviram121&count=3&unique=false)](https://open.spotify.com/user/aviram121)
+### 🎵 Currently Jamming To  
+<p align="center">
+  <a href="https://open.spotify.com/user/aviram121">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=aviram121&count=3&unique=false" alt="Spotify recently played" />
+  </a>
+</p>
 
 ---
