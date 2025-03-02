@@ -58,4 +58,3 @@
 </p>
 
 <p>(i use arch btw)</p>
----
