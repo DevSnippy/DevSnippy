@@ -37,13 +37,13 @@
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="your-discord-link">
+  <a href="(https://discord.com/users/386603174842073108)">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:aviram2n@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="your-linkedin-profile">
+  <a href="(https://www.linkedin.com/in/aviram-rabinovitch-76230423b/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
