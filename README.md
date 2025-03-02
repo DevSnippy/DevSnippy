@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  🚀 Full-Stack Developer | DevOps Enthusiast | Linux Power User
+  🚀 Full-Stack Developer | DevOps Enthusiast | Linux Power User (i use arch btw)
 </p>
 
 ###
@@ -30,8 +30,8 @@
 - **Languages**: JavaScript, TypeScript, Python, Rust  
 - **Frameworks**: React, Node.js, Next.js  
 - **Tools**: Linux, Git, Docker, Webpack, CustomTkinter  
-- **Cloud & DevOps**: CI/CD, Home Server Setup, Automation  
-- **Other Interests**: Open Source, Embedded Systems, SDR, Raspberry Pi, 3D Printing  
+- **Cloud & DevOps**: CI/CD, Automation  
+- **Other Interests**: Open Source, Raspberry Pi, 3D Printing , Home Servers 
 
 ###
 
