@@ -30,7 +30,7 @@
 - **Languages**: JavaScript, TypeScript, Python, Rust  
 - **Frameworks**: React, Node.js, Next.js  
 - **Tools**: Linux, Git, Docker, Webpack, CustomTkinter  
-- **Cloud & DevOps**: CI/CD, Automation  
+- **Cloud & DevOps**: GitHub Action, Jenkins 
 - **Other Interests**: Open Source, Raspberry Pi, 3D Printing, Home Servers 
 
 ###
